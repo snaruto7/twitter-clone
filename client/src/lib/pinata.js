@@ -1,7 +1,7 @@
 import axios from 'axios'
 
-const key = process.env.REACT_PUBLIC_PINATA_API_KEY
-const secret = process.env.REACT_PUBLIC_PINATA_API_SECRET
+const key = process.env.REACT_APP_PINATA_API_KEY
+const secret = process.env.REACT_APP_PINATA_API_SECRET
 
 
 
